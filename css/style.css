@@ -1,6 +1,9 @@
 *{
 margin-top: 5px;
      }
+#nav{
+   padding: 50px;
+}
 h1{
     margin: auto;
     background: #eccecc;
