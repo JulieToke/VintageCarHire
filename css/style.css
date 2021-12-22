@@ -21,6 +21,7 @@ h2{
 #footer{
     background: #eccecc;
     padding-bottom: 50px;
+    min-height: 100px;
 }
 #image{
     border-radius: 10%;
