@@ -1,9 +1,9 @@
 *{
 margin-top: 5px;
-     }
-#nav{
-   padding: 50px;
 }
+#nav{
+    padding: 50px;
+ }
 h1{
     margin: auto;
     background: #eccecc;
@@ -16,9 +16,11 @@ h2{
 }
 #header{
     background: #eccecc;
+    
 }
 #footer{
     background: #eccecc;
+    padding-bottom: 50px;
 }
 #image{
     border-radius: 10%;
@@ -26,5 +28,15 @@ h2{
     height:auto;
 }
 #cars .row{
-    padding-left: 50px;
+    padding-left: 40px;
+    margin: auto;
+}
+#contactContent{
+    margin: auto;
+}
+#mapouter{
+    margin:auto;
+}
+#enquiries{
+    padding-bottom: 50px;
 }
