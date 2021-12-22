@@ -1,15 +1,27 @@
 *{
-    margin-top; 5px;
+margin-top: 5px;
      }
-#enquiries{
-    color-background: #eccecc;
+h1{
+    margin: auto;
+    background: #eccecc;
+    min-height: 100px;
+    padding-top: 25px;
+}
+h2{
+    background: #e6dec7;
+    padding-left: 50px;
 }
 #header{
-    color-background: #eccecc;
+    background: #eccecc;
 }
 #footer{
-        color-background: #eccecc;
+    background: #eccecc;
 }
-    
-
-    
+#image{
+    border-radius: 10%;
+    width:auto;
+    height:auto;
+}
+#cars .row{
+    padding-left: 50px;
+}
